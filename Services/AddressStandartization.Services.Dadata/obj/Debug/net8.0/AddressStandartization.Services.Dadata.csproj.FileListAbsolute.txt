@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.AssemblyInfo.cs
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\bin\Debug\net8.0\AddressStandartization.Services.Dadata.deps.json
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\bin\Debug\net8.0\AddressStandartization.Services.Dadata.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\bin\Debug\net8.0\AddressStandartization.Services.Dadata.pdb
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\bin\Debug\net8.0\AddressStandartization.Common.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\bin\Debug\net8.0\AddressStandartization.Services.Settings.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\bin\Debug\net8.0\AddressStandartization.Services.Settings.pdb
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\bin\Debug\net8.0\AddressStandartization.Common.pdb
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressS.E8F71428.Up2Date
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\refint\AddressStandartization.Services.Dadata.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.pdb
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\ref\AddressStandartization.Services.Dadata.dll

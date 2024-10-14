@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\bin\Debug\net8.0\DadataTest.Services.Logger.deps.json
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\bin\Debug\net8.0\DadataTest.Services.Logger.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\bin\Debug\net8.0\DadataTest.Services.Logger.pdb
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\DadataTest.Services.Logger.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\DadataTest.Services.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\DadataTest.Services.Logger.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\DadataTest.Services.Logger.AssemblyInfo.cs
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\DadataTest.Services.Logger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\DadataTest.Services.Logger.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\refint\DadataTest.Services.Logger.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\DadataTest.Services.Logger.pdb
+C:\Users\user\Desktop\AddressStandartisation\Services\DadataTest.Services.Logger\obj\Debug\net8.0\ref\DadataTest.Services.Logger.dll

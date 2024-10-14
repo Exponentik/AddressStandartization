@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\bin\Debug\net8.0\AddressStandartisation.Services.Settings.deps.json
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\bin\Debug\net8.0\AddressStandartisation.Services.Settings.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\bin\Debug\net8.0\AddressStandartisation.Services.Settings.pdb
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressStandartisation.Services.Settings.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressStandartisation.Services.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressStandartisation.Services.Settings.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressStandartisation.Services.Settings.AssemblyInfo.cs
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressStandartisation.Services.Settings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressStandartisation.Services.Settings.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\refint\AddressStandartisation.Services.Settings.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressStandartisation.Services.Settings.pdb
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\ref\AddressStandartisation.Services.Settings.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\bin\Debug\net8.0\AddressStandartization.Common.dll
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\bin\Debug\net8.0\AddressStandartization.Common.pdb
+C:\Users\user\Desktop\AddressStandartisation\Services\AddressStandartisation.Services.Settings\obj\Debug\net8.0\AddressS.96834B7D.Up2Date
