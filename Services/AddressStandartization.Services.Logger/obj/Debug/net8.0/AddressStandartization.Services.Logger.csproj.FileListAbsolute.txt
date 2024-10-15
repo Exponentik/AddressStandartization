@@ -22,3 +22,4 @@ C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Ser
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Logger\obj\Debug\net8.0\refint\AddressStandartization.Services.Logger.dll
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Logger\obj\Debug\net8.0\AddressStandartization.Services.Logger.pdb
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Logger\obj\Debug\net8.0\ref\AddressStandartization.Services.Logger.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Logger\obj\Debug\net8.0\AddressStandartization.Services.Logger.sourcelink.json

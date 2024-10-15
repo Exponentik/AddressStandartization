@@ -22,3 +22,4 @@ C:\Users\user\Desktop\AddressStandartization\Shared\AddressStandartization.Commo
 C:\Users\user\Desktop\AddressStandartization\Shared\AddressStandartization.Common\obj\Debug\net8.0\refint\AddressStandartization.Common.dll
 C:\Users\user\Desktop\AddressStandartization\Shared\AddressStandartization.Common\obj\Debug\net8.0\AddressStandartization.Common.pdb
 C:\Users\user\Desktop\AddressStandartization\Shared\AddressStandartization.Common\obj\Debug\net8.0\ref\AddressStandartization.Common.dll
+C:\Users\user\Desktop\AddressStandartization\Shared\AddressStandartization.Common\obj\Debug\net8.0\AddressStandartization.Common.sourcelink.json

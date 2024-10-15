@@ -15,3 +15,4 @@ C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Ser
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\refint\AddressStandartization.Services.Dadata.dll
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.pdb
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\ref\AddressStandartization.Services.Dadata.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Dadata\obj\Debug\net8.0\AddressStandartization.Services.Dadata.sourcelink.json

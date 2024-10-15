@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddressStandartization.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d06c92442f9b5ae11854afa483ea665d945fa3ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddressStandartization.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddressStandartization.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

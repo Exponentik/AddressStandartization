@@ -13,3 +13,4 @@ C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Ser
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Settings\obj\Debug\net8.0\refint\AddressStandartization.Services.Settings.dll
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Settings\obj\Debug\net8.0\AddressStandartization.Services.Settings.pdb
 C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Settings\obj\Debug\net8.0\ref\AddressStandartization.Services.Settings.dll
+C:\Users\user\Desktop\AddressStandartization\Services\AddressStandartization.Services.Settings\obj\Debug\net8.0\AddressStandartization.Services.Settings.sourcelink.json

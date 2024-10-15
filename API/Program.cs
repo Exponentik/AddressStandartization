@@ -11,6 +11,8 @@ var dadataSettings = Settings.Load<DadataSettings>("DadataSettings");
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
+
 builder.AddAppLogger(mainSettings, logSettings);
 
 builder.Services.AddSingleton(dadataSettings);
@@ -26,7 +28,11 @@ builder.Services.AddAppHealthChecks();
 builder.Services.AddAutoMapper(typeof(AddressProfile));
 
 
+
+
 var app = builder.Build();
+
+app.UseExceptionHandler(o => { });
 
 app.UseAppCors();
 

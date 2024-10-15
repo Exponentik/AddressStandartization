@@ -149,3 +149,5 @@ C:\Users\user\Desktop\AddressStandartization\API\obj\Debug\net8.0\scopedcss\bund
 C:\Users\user\Desktop\AddressStandartization\API\obj\Debug\net8.0\API.csproj.Up2Date
 C:\Users\user\Desktop\AddressStandartization\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\user\Desktop\AddressStandartization\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\user\Desktop\AddressStandartization\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\AddressStandartization\API\obj\Debug\net8.0\API.sourcelink.json
